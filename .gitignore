@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.iml
+*.code-workspace
+.changelog
+.history
+
+node_modules
+
+.eslintcache
+
+.docusaurus
+.cache-loader
