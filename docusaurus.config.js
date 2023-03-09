@@ -11,15 +11,15 @@ const config = {
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://r1oga.github.io',
+    url: 'https://web3privacy.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/web3privacynow-website/',
+    baseUrl: '/website/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'r1oga', // Usually your GitHub org/username.
-    projectName: 'web3privacynow-website', // Usually your repo name.
+    organizationName: 'web3privacy', // Usually your GitHub org/username.
+    projectName: 'website', // Usually your repo name.
     deploymentBranch: 'gh-pages', // Branch that GitHub pages will deploy from.
     trailingSlash: false, // Set to true if you are using Netlify.
     onBrokenLinks: 'throw',
@@ -43,14 +43,14 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/r1oga/web3privacynow-website/tree/main/',
+                        'https://github.com/web3privacy/website/tree/main/',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/r1oga/web3privacynow-website/tree/main/',
+                        'https://github.com/web3privacy/website/tree/main/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
@@ -96,7 +96,7 @@ const config = {
                     },
                     {to: '/blog', label: 'Blog', position: 'left'},
                     {
-                        href: 'https://github.com/r1oga/web3privacynow-website',
+                        href: 'https://github.com/web3privacy/website',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -142,7 +142,7 @@ const config = {
                             },
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/r1oga/web3privacynow-website',
+                                href: 'https://github.com/web3privacy/website',
                             },
                         ],
                     },
