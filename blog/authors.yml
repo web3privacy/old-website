@@ -1,17 +1,23 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+r1oga:
+  name: r1oga
+  title: Web3 Engineer @ PSE (Ethereum Foundation)
+  url: https://github.com/r1oga
+  image_url: https://github.com/r1oga.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+web3privacy:
+  name: Web3Privacy
+  title: Web3Privacy Organization
+  url: https://github.com/web3privacy
+  image_url: https://github.com/web3privacy.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+msiusko:
+  name: Mykola Siusko
+  title: Web3 privacy now founder.
+  url: https://twitter.com/nicksvyaznoy
+  image_url: https://github.com/msiusko.png
+
+burningtree:
+  name: BurningTree
+  title: BurningTree
+  url: https://twitter.com/treecz
+  image_url:  https://github.com/burningtree.png
