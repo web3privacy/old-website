@@ -109,10 +109,10 @@ const config = {
                         items: [
                             {
                                 label: 'Manifesto',
-                                to: 'docs/manifesto',
+                                to: '/docs/manifesto',
                             }, {
                                 label: 'Pagency',
-                                to: 'docs/pagency',
+                                to: '/docs/pagency',
                             }, {
                                 label: 'DB',
                                 to: '/docs/category/db',

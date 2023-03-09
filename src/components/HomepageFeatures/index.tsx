@@ -1,5 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -18,7 +19,7 @@ const FeatureList: FeatureItem[] = [
                 Research project ideological foundation.
             </>
         ),
-        link:'./docs/manifesto'
+        link:'/docs/manifesto'
     },
     {
         title: 'Roadmap',
@@ -28,7 +29,7 @@ const FeatureList: FeatureItem[] = [
                 Forthcoming activities that will empower humans & industry privacy-level.
             </>
         ),
-        link:'./docs/roadmap'
+        link:'/docs/roadmap'
     },
     {
         title: 'Pagency',
@@ -38,7 +39,7 @@ const FeatureList: FeatureItem[] = [
                 Tool to facilitate impactful privacy-enhancing ideas & raise privacy culture in web3.
             </>
         ),
-        link:'./docs/pagency'
+        link:'/docs/pagency'
     },
 ];
 
@@ -47,9 +48,9 @@ function Feature({link, title, Svg, description}: FeatureItem) {
         <div className={clsx('col col--4')}>
             <div className="text--center">
                 {link ? (
-                    <a href={link}>
+                    <Link to={link}>
                         <Svg className={styles.featureSvg} role="img"/>
-                    </a>
+                    </Link>
                 ) : (
                     <Svg className={styles.featureSvg} role="img"/>
                 )
