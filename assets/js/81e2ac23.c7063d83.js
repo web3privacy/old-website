@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdb_website=self.webpackChunkdb_website||[]).push([[1222],{6764:e=>{e.exports=JSON.parse('{"title":"DB","description":"Aggregation of privacy focused web3 projects .","slug":"/category/db","permalink":"/website/docs/category/db","navigation":{"next":{"title":"Alliances","permalink":"/website/docs/db/alliances"}}}')}}]);

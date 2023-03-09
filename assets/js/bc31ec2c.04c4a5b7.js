@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdb_website=self.webpackChunkdb_website||[]).push([[6881],{2119:e=>{e.exports=JSON.parse('{"permalink":"/website/blog/tags/privacy","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

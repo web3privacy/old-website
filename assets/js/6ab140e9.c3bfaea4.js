@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdb_website=self.webpackChunkdb_website||[]).push([[2155],{3039:e=>{e.exports=JSON.parse('{"permalink":"/web3privacynow-website/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

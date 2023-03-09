@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdb_website=self.webpackChunkdb_website||[]).push([[9517],{730:e=>{e.exports=JSON.parse('{"permalink":"/web3privacynow-website/blog/tags/web-3","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
